@@ -11,3 +11,10 @@ Les règles sont simples: déplacer des tuiles contenant des puissances de 2 pou
 
 En fin de semestre 2 de DUT Informatique, nous avons réalisé en duo une variante de ce jeu. Pour se faire, nous avons utiliser la librairie PyQt de Python.
 Notre variante reprend les principes du jeu avec comme différences que le but ici est de « créer » l’univers en partant de l’atome.
+
+
+
+
+### Pour tester l'application
+
+Télécharger le dossier et exécuter le fichier Projet2.py depuis un terminal avec python3 ou un IDE vous le permettant.
